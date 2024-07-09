@@ -7,8 +7,8 @@ This is a Web Application Project for performing operations on the text
   <li> This is a Web Application Project for performing operations on the text. </li>
   <li> TextOpe is a word counter and a character counting utility to manipulate your text in the way you want. </li>
   <li> You can remove extra spaces, copy the manipulated text as well as convert your text from Uppercase to Lowercase and lowercase to uppercase. </li>
-  <li> This Web Appliction Work on both light mode as well as dark mode effectively based on user choice. </li>
-  <li> It is shows the success message when successfully performed opertion on the text input. </li>
+  <li> This Web Application Work on both light mode as well as dark mode effectively based on user choice. </li>
+  <li> It shows the success message when successfully performed operation on the text input. </li>
   <li> It provide various categories of Theme of the backgroud like: 
     <ol>
       <li> bg-primary </li>
