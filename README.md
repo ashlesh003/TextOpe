@@ -1,3 +1,28 @@
+# TextOpe - React App
+This is a Web Application Project for performing operations on the text
+
+<b>""Effortlessly handle text operations, even with large amounts of text.""</b>
+<ul>
+  <li> This Web site created using create-react-app. </li>
+  <li> This is a Web Application Project for performing operations on the text. </li>
+  <li> TextOpe is a word counter and a character counting utility to manipulate your text in the way you want. </li>
+  <li> You can remove extra spaces, copy the manipulated text as well as convert your text from Uppercase to Lowercase and lowercase to uppercase. </li>
+  <li> This Web Appliction Work on both light mode as well as dark mode effectively based on user choice. </li>
+  <li> It is shows the success message when successfully performed opertion on the text input. </li>
+  <li> It provide various categories of Theme of the backgroud like: 
+    <ol>
+      <li> bg-primary </li>
+      <li> bg-secondary </li>
+      <li> bg-success </li>
+      <li> bg-warning </li>
+      <li> bg-danger </li>
+    </ol>
+  </li>
+</ul>
+
+<h2>Some Guidlines for making Project with React App</h2>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
