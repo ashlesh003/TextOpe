@@ -1,7 +1,7 @@
 # TextOpe - React App
 This is a Web Application Project for performing operations on the text
 
-<b>""Effortlessly handle text operations, even with large amounts of text.""</b>
+<b>"Effortlessly handle text operations, even with large amounts of text."</b>
 <ul>
   <li> This Web site created using create-react-app. </li>
   <li> This is a Web Application Project for performing operations on the text. </li>
